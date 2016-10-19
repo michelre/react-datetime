@@ -52,7 +52,7 @@
   "dependencies": {
     "object-assign": "^3.0.0",
     "react-onclickoutside": "^4.1.0",
-    "moment": "2.14.1"
+    "moment": "^2.14.1"
   },
   "pre-commit": [
     "lint",
